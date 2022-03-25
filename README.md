@@ -10,6 +10,6 @@ first Beginner TypeScript crash course i did following a youtube crash course ma
 
 
 ## TypeScript terminal commands
-`tsc` to run the .ts file and compile it to .js.
+`tsc` to run the .ts file and compile it to .js
 
 `tsc --watch` to keep compiling automatically every time theres a change in the .ts file
