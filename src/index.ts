@@ -144,7 +144,7 @@ class Person {
 
     // classes are used to create objects, so we can make multiple objects of "Persons"
 }
-// this 'brad' will "instantiate|represent as"
+// this 'pedro' will "instantiate|represent as"
 const pedro = new Person(1,'pedro') // this will make a variable calling the class Person which will run the Constructor
 // JS will read this variable and call it and console.log(123) right away no questions asked in the 1st example
 
