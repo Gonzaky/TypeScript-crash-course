@@ -135,7 +135,7 @@ class Person {
 
         this.id = id // I need to provide values to the properties to create the new object
         this.name = name
-       //  console.log('123') this console log would still print before the object 'brad'
+       //  console.log('123') this console log would still print before the object 'pedro'
     }
     // we can add as many "methods/which are functions" we want:
     register(){
